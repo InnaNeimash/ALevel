@@ -1,0 +1,14 @@
+D:\apps\SecondExercise\bin\Debug\net8.0\SecondExercise.exe
+D:\apps\SecondExercise\bin\Debug\net8.0\SecondExercise.deps.json
+D:\apps\SecondExercise\bin\Debug\net8.0\SecondExercise.runtimeconfig.json
+D:\apps\SecondExercise\bin\Debug\net8.0\SecondExercise.dll
+D:\apps\SecondExercise\bin\Debug\net8.0\SecondExercise.pdb
+D:\apps\SecondExercise\obj\Debug\net8.0\SecondExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\SecondExercise\obj\Debug\net8.0\SecondExercise.AssemblyInfoInputs.cache
+D:\apps\SecondExercise\obj\Debug\net8.0\SecondExercise.AssemblyInfo.cs
+D:\apps\SecondExercise\obj\Debug\net8.0\SecondExercise.csproj.CoreCompileInputs.cache
+D:\apps\SecondExercise\obj\Debug\net8.0\SecondExercise.dll
+D:\apps\SecondExercise\obj\Debug\net8.0\refint\SecondExercise.dll
+D:\apps\SecondExercise\obj\Debug\net8.0\SecondExercise.pdb
+D:\apps\SecondExercise\obj\Debug\net8.0\SecondExercise.genruntimeconfig.cache
+D:\apps\SecondExercise\obj\Debug\net8.0\ref\SecondExercise.dll
