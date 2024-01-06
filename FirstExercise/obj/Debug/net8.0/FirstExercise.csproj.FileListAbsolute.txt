@@ -1,0 +1,14 @@
+D:\apps\FirstExercise\bin\Debug\net8.0\FirstExercise.exe
+D:\apps\FirstExercise\bin\Debug\net8.0\FirstExercise.deps.json
+D:\apps\FirstExercise\bin\Debug\net8.0\FirstExercise.runtimeconfig.json
+D:\apps\FirstExercise\bin\Debug\net8.0\FirstExercise.dll
+D:\apps\FirstExercise\bin\Debug\net8.0\FirstExercise.pdb
+D:\apps\FirstExercise\obj\Debug\net8.0\FirstExercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\FirstExercise\obj\Debug\net8.0\FirstExercise.AssemblyInfoInputs.cache
+D:\apps\FirstExercise\obj\Debug\net8.0\FirstExercise.AssemblyInfo.cs
+D:\apps\FirstExercise\obj\Debug\net8.0\FirstExercise.csproj.CoreCompileInputs.cache
+D:\apps\FirstExercise\obj\Debug\net8.0\FirstExercise.dll
+D:\apps\FirstExercise\obj\Debug\net8.0\refint\FirstExercise.dll
+D:\apps\FirstExercise\obj\Debug\net8.0\FirstExercise.pdb
+D:\apps\FirstExercise\obj\Debug\net8.0\FirstExercise.genruntimeconfig.cache
+D:\apps\FirstExercise\obj\Debug\net8.0\ref\FirstExercise.dll

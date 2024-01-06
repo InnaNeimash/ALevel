@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5ZRN089EJlKWthzF6oEGL2OTpZvkKMvLcW6zUVRIY1TU+UK3YBXpMM61+9ah/bUJ7gr/DQzFtMvu4Mysk0XFA==",
+  "success": true,
+  "projectFilePath": "D:\\apps\\Homework 1_4\\Homework 1_4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.556\\stylecop.analyzers.1.2.0-beta.556.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.556\\stylecop.analyzers.unstable.1.2.0.556.nupkg.sha512"
+  ],
+  "logs": []
+}
