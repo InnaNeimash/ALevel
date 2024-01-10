@@ -1,0 +1,17 @@
+D:\apps\ExampleLogger\bin\Debug\net8.0\ExampleLogger.exe
+D:\apps\ExampleLogger\bin\Debug\net8.0\ExampleLogger.deps.json
+D:\apps\ExampleLogger\bin\Debug\net8.0\ExampleLogger.runtimeconfig.json
+D:\apps\ExampleLogger\bin\Debug\net8.0\ExampleLogger.dll
+D:\apps\ExampleLogger\bin\Debug\net8.0\ExampleLogger.pdb
+D:\apps\ExampleLogger\bin\Debug\net8.0\NLog.dll
+D:\apps\ExampleLogger\obj\Debug\net8.0\ExampleLogger.csproj.AssemblyReference.cache
+D:\apps\ExampleLogger\obj\Debug\net8.0\ExampleLogger.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\ExampleLogger\obj\Debug\net8.0\ExampleLogger.AssemblyInfoInputs.cache
+D:\apps\ExampleLogger\obj\Debug\net8.0\ExampleLogger.AssemblyInfo.cs
+D:\apps\ExampleLogger\obj\Debug\net8.0\ExampleLogger.csproj.CoreCompileInputs.cache
+D:\apps\ExampleLogger\obj\Debug\net8.0\ExampleLogger.csproj.CopyComplete
+D:\apps\ExampleLogger\obj\Debug\net8.0\ExampleLogger.dll
+D:\apps\ExampleLogger\obj\Debug\net8.0\refint\ExampleLogger.dll
+D:\apps\ExampleLogger\obj\Debug\net8.0\ExampleLogger.pdb
+D:\apps\ExampleLogger\obj\Debug\net8.0\ExampleLogger.genruntimeconfig.cache
+D:\apps\ExampleLogger\obj\Debug\net8.0\ref\ExampleLogger.dll
