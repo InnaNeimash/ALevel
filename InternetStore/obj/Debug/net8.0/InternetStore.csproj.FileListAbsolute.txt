@@ -1,0 +1,14 @@
+D:\apps\InternetStore\bin\Debug\net8.0\InternetStore.exe
+D:\apps\InternetStore\bin\Debug\net8.0\InternetStore.deps.json
+D:\apps\InternetStore\bin\Debug\net8.0\InternetStore.runtimeconfig.json
+D:\apps\InternetStore\bin\Debug\net8.0\InternetStore.dll
+D:\apps\InternetStore\bin\Debug\net8.0\InternetStore.pdb
+D:\apps\InternetStore\obj\Debug\net8.0\InternetStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\InternetStore\obj\Debug\net8.0\InternetStore.AssemblyInfoInputs.cache
+D:\apps\InternetStore\obj\Debug\net8.0\InternetStore.AssemblyInfo.cs
+D:\apps\InternetStore\obj\Debug\net8.0\InternetStore.csproj.CoreCompileInputs.cache
+D:\apps\InternetStore\obj\Debug\net8.0\InternetStore.dll
+D:\apps\InternetStore\obj\Debug\net8.0\refint\InternetStore.dll
+D:\apps\InternetStore\obj\Debug\net8.0\InternetStore.pdb
+D:\apps\InternetStore\obj\Debug\net8.0\InternetStore.genruntimeconfig.cache
+D:\apps\InternetStore\obj\Debug\net8.0\ref\InternetStore.dll
