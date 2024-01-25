@@ -1,0 +1,14 @@
+D:\apps\NYgift\bin\Debug\net8.0\NYgift.exe
+D:\apps\NYgift\bin\Debug\net8.0\NYgift.deps.json
+D:\apps\NYgift\bin\Debug\net8.0\NYgift.runtimeconfig.json
+D:\apps\NYgift\bin\Debug\net8.0\NYgift.dll
+D:\apps\NYgift\bin\Debug\net8.0\NYgift.pdb
+D:\apps\NYgift\obj\Debug\net8.0\NYgift.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\NYgift\obj\Debug\net8.0\NYgift.AssemblyInfoInputs.cache
+D:\apps\NYgift\obj\Debug\net8.0\NYgift.AssemblyInfo.cs
+D:\apps\NYgift\obj\Debug\net8.0\NYgift.csproj.CoreCompileInputs.cache
+D:\apps\NYgift\obj\Debug\net8.0\NYgift.dll
+D:\apps\NYgift\obj\Debug\net8.0\refint\NYgift.dll
+D:\apps\NYgift\obj\Debug\net8.0\NYgift.pdb
+D:\apps\NYgift\obj\Debug\net8.0\NYgift.genruntimeconfig.cache
+D:\apps\NYgift\obj\Debug\net8.0\ref\NYgift.dll

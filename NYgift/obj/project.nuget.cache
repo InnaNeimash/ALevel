@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SUzg6fVzSNzOnB+mNCikImvHeHfMmgQhyIVnXGWbaVY2fhE+HeTzPuMFuTgG+AS6WNtrFIK0jNks/JQuKcg3og==",
+  "success": true,
+  "projectFilePath": "D:\\apps\\NYgift\\NYgift.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Произошла ошибка при получении данных уязвимости пакета: Произошла ошибка при отправке запроса."
+    }
+  ]
+}
