@@ -1,0 +1,29 @@
+D:\apps\Homework 3_2\bin\Debug\net8.0\Homework 3_2.exe
+D:\apps\Homework 3_2\bin\Debug\net8.0\Homework 3_2.deps.json
+D:\apps\Homework 3_2\bin\Debug\net8.0\Homework 3_2.runtimeconfig.json
+D:\apps\Homework 3_2\bin\Debug\net8.0\Homework 3_2.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Homework 3_2.pdb
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\apps\Homework 3_2\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\apps\Homework 3_2\obj\Debug\net8.0\Homework 3_2.csproj.AssemblyReference.cache
+D:\apps\Homework 3_2\obj\Debug\net8.0\Homework 3_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\apps\Homework 3_2\obj\Debug\net8.0\Homework 3_2.AssemblyInfoInputs.cache
+D:\apps\Homework 3_2\obj\Debug\net8.0\Homework 3_2.AssemblyInfo.cs
+D:\apps\Homework 3_2\obj\Debug\net8.0\Homework 3_2.csproj.CoreCompileInputs.cache
+D:\apps\Homework 3_2\obj\Debug\net8.0\Homework 3_2.csproj.CopyComplete
+D:\apps\Homework 3_2\obj\Debug\net8.0\Homework 3_2.dll
+D:\apps\Homework 3_2\obj\Debug\net8.0\refint\Homework 3_2.dll
+D:\apps\Homework 3_2\obj\Debug\net8.0\Homework 3_2.pdb
+D:\apps\Homework 3_2\obj\Debug\net8.0\Homework 3_2.genruntimeconfig.cache
+D:\apps\Homework 3_2\obj\Debug\net8.0\ref\Homework 3_2.dll
